@@ -8,6 +8,10 @@ public class hello{
         add(25, 1);
     }
     public static void add(int num1,int num2){
-            System.out.println(num1+num2);
+        System.out.println(num1+num2);
+    }
+    public static void dcrease(int num1,int num2){
+        System.out.println("=============================");
+        dcrease(34, 4);
     }
 }
